@@ -20,13 +20,13 @@ var itemList=document.querySelector('#items');
 
 // console.log(itemList.firstChild);
 
-// firstElementChild
+// firstElementChild -- gives text node
 
 // console.log(itemList.firstElementChild);
 // itemList.firstElementChild.textContent='hello 1';
 
 
-// lastChild
+// lastChild -- gives text node
 
 // console.log(itemList.lastChild);
 
